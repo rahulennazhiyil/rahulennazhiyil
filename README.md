@@ -1,10 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" /> <br>
-<p align="center">
-  <!-- Typing SVG for Rahul Ennazhiyil -->
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Rahul%20E;Front-End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FE2E61&width=435&lines=Rahul+E;Front-End+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 ---
 
