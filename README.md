@@ -6,9 +6,8 @@
 
 ## 👋 Welcome to My Digital Space
 
-> ⚡ **Live Portfolio:**  
-> ### 👉 🌐 **https://rahule.netlify.app/**
-> _Crafted with passion for clean UI, performance, and real-world Angular architecture._
+> 🚀 **[Rahul E - My Portfolio](https://rahule.netlify.app/)**  
+> 🎨 A live showcase of my work in **Angular, UI architecture, and performance-focused web apps**  
 
 ---
 
