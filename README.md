@@ -4,6 +4,14 @@
 
 ---
 
+## 👋 Welcome to My Digital Space
+
+> ⚡ **Live Portfolio:**  
+> ### 👉 🌐 **https://rahule.netlify.app/**
+> _Crafted with passion for clean UI, performance, and real-world Angular architecture._
+
+---
+
 ## 🚀 About Me
 
 - 🏢 **Currently working at:** Finch Innovate (Engineer - Software Development)
@@ -11,7 +19,6 @@
 - 💡 **Learning:** Advanced RxJS, Performance Optimization in Angular
 - 💬 **Ask me about:** Angular, TypeScript, JavaScript, RxJS, Bootstrap, SCSS
 - 📫 **Contact me:** [rahulennazhiyil6@gmail.com](mailto:rahulennazhiyil6@gmail.com)
-- 🌍 **Portfolio:** Coming Soon!
 
 ---
 
@@ -33,16 +40,12 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulennazhiyil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulennazhiyil&layout=compact&theme=dracula" height="150" />
 </p>
 
 ---
 
 ## 🚀 Top Projects
-
-### 📄 PDF Designer (Live Project)
-A web-based **PDF Designer** that allows users to visually design and structure PDFs using modern front-end concepts.  
-👉 **Live Demo:** https://rahulennazhiyil.github.io/pdf-desginer/
 
 [![PDF Designer](https://github-readme-stats.vercel.app/api/pin/?username=rahulennazhiyil&repo=pdf-desginer&theme=radical)](https://rahulennazhiyil.github.io/pdf-desginer/)
 
@@ -54,6 +57,7 @@ A web-based **PDF Designer** that allows users to visually design and structure 
 
 ## 🌍 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://rahule.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-ennazhiyil)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulennazhiyil)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rahulennazhiyil6)
