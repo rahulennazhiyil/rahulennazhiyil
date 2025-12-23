@@ -6,15 +6,15 @@
 
 ## 👋 Welcome to My Digital Space
 
-> 🚀 **[Rahul E - My Portfolio](https://rahule.netlify.app/)**  
-> 🎨 A live showcase of my work in **Angular, UI architecture, and performance-focused web apps**  
+> 🚀 **[Rahul E – My Portfolio](https://rahule.netlify.app/)**  
+> 🎨 A live showcase of my work in **Angular, UI architecture, and performance-focused web apps**
 
 ---
 
 ## 🚀 About Me
 
-- 🏢 **Currently working at:** Finch Innovate (Engineer - Software Development)
-- 🔭 **Latest Projects:** PDF Designer, Angular apps using FusionCharts & CoinGecko APIs
+- 🏢 **Currently working at:** Finch Innovate (Engineer – Software Development)
+- 🔭 **Latest Projects:** PDF Designer, Crypto Exchange, Angular apps using FusionCharts & CoinGecko APIs
 - 💡 **Learning:** Advanced RxJS, Performance Optimization in Angular
 - 💬 **Ask me about:** Angular, TypeScript, JavaScript, RxJS, Bootstrap, SCSS
 - 📫 **Contact me:** [rahulennazhiyil6@gmail.com](mailto:rahulennazhiyil6@gmail.com)
