@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" /> <br>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FE2E61&width=435&lines=Rahul+E;Front-End+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
@@ -7,11 +7,11 @@
 ## 🚀 About Me
 
 - 🏢 **Currently working at:** Finch Innovate (Engineer - Software Development)
-- 🔭 **Latest Project:** Angular app using FusionCharts & CoinGecko APIs
+- 🔭 **Latest Projects:** PDF Designer, Angular apps using FusionCharts & CoinGecko APIs
 - 💡 **Learning:** Advanced RxJS, Performance Optimization in Angular
 - 💬 **Ask me about:** Angular, TypeScript, JavaScript, RxJS, Bootstrap, SCSS
 - 📫 **Contact me:** [rahulennazhiyil6@gmail.com](mailto:rahulennazhiyil6@gmail.com)
-- 🌍 **Portfolio:** [Coming Soon!]
+- 🌍 **Portfolio:** Coming Soon!
 
 ---
 
@@ -33,14 +33,21 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulennazhiyil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulennazhiyil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </p>
 
 ---
 
 ## 🚀 Top Projects
 
+### 📄 PDF Designer (Live Project)
+A web-based **PDF Designer** that allows users to visually design and structure PDFs using modern front-end concepts.  
+👉 **Live Demo:** https://rahulennazhiyil.github.io/pdf-desginer/
+
+[![PDF Designer](https://github-readme-stats.vercel.app/api/pin/?username=rahulennazhiyil&repo=pdf-desginer&theme=radical)](https://rahulennazhiyil.github.io/pdf-desginer/)
+
 [![Crypto Exchange](https://github-readme-stats.vercel.app/api/pin/?username=rahulennazhiyil&repo=Crypto_Exchange&theme=radical)](https://github.com/rahulennazhiyil/Crypto_Exchange)
+
 [![UNO Fashion](https://github-readme-stats.vercel.app/api/pin/?username=rahulennazhiyil&repo=UNO_Fashion&theme=radical)](https://github.com/rahulennazhiyil/UNO_Fashion)
 
 ---
