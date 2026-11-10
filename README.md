@@ -1,13 +1,13 @@
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FE2E61&width=435&lines=Rahul+E;Front-End+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FE2E61&width=435&lines=Rahul+E;Software+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 ---
 
 ## 👋 Welcome to My Digital Space
 
 > 🚀 **[Rahul E – My Portfolio](https://rahulennazhiyil.vercel.app/)**  
-> 🎨 A live showcase of my work in **Angular, UI architecture, and performance-focused web apps**
+> 🎨 A live showcase of my work in **Web AI, UI architecture, and performance-focused web apps**
 
 ---
 
