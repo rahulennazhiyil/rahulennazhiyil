@@ -6,7 +6,7 @@
 
 ## 👋 Welcome to My Digital Space
 
-> 🚀 **[Rahul E – My Portfolio](https://rahule.netlify.app/)**  
+> 🚀 **[Rahul E – My Portfolio](https://rahulennazhiyil.vercel.app/)**  
 > 🎨 A live showcase of my work in **Angular, UI architecture, and performance-focused web apps**
 
 ---
