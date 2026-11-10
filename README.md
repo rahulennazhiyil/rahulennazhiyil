@@ -13,10 +13,10 @@
 
 ## 🚀 About Me
 
-- 🏢 **Currently working at:** Finch Innovate (Engineer – Software Development)
-- 🔭 **Latest Projects:** PDF Designer, Crypto Exchange, Angular apps using FusionCharts & CoinGecko APIs
-- 💡 **Learning:** Advanced RxJS, Performance Optimization in Angular
-- 💬 **Ask me about:** Angular, TypeScript, JavaScript, RxJS, Bootstrap, SCSS
+- 🏢 **Currently working at:** Data Unveil (Software Developer)
+- 🔭 **Latest Projects:** SIMVERA (Workflow simulation), SCRAII AI (AI chatbot for pharmaceutical and life sciences industries), FINCHSCAN (AI-powered SaaS platform)
+- 💡 **Learning:** AI Agent orchestration, building AI agents/LLMs
+- 💬 **Ask me about:** Python, Node.js, Angular, JavaScript, TypeScript, AI Prompting
 - 📫 **Contact me:** [rahulennazhiyil6@gmail.com](mailto:rahulennazhiyil6@gmail.com)
 
 ---
